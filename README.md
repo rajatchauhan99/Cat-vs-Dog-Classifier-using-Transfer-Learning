@@ -100,7 +100,4 @@ plt.plot(history.history['accuracy'],color='red',label='train')
 plt.plot(history.history['val_accuracy'],color='blue',label='validation')
 plt.legend()
 plt.show()
-```python
 
-
-This project contributes to the advancement of computer vision applications and underscores the practical utility of transfer learning in image classification tasks.
